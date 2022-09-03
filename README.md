@@ -1,0 +1,14 @@
+# hammerhead-user 6.0.1 M4B30Z 3437181 release-keys
+- manufacturer: lge
+- platform: msm8974
+- codename: hammerhead
+- flavor: hammerhead-user
+- release: 6.0.1
+- id: M4B30Z
+- incremental: 3437181
+- tags: release-keys
+- fingerprint: google/hammerhead/hammerhead:6.0.1/M4B30Z/3437181:user/release-keys
+- is_ab: false
+- brand: google
+- branch: hammerhead-user-6.0.1-M4B30Z-3437181-release-keys
+- repo: google_hammerhead_dump
